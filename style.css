@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  color: #fff;
+  overflow: hidden;
+  user-select: none;
+}
+.trail {
+  position: absolute;
+  font-size: 1rem;
+}
